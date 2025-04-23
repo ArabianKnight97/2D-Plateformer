@@ -1,0 +1,1 @@
+max_adventure = random_range(3,13)

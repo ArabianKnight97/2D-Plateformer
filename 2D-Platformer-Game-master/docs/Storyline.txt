@@ -1,0 +1,160 @@
+Characters:
+ Main
+  Bean Guy (main character)
+  Shady Merchant
+  Jarek the Rough One (Bean Bandits leader)
+  Elder Faba (Bean Cult leader)
+  Lord Obsidian (Bean Syndicate leader)
+  
+ Side
+  Bean Guy's Neighbor
+  Imperial Revenue Solicitors (side quest on optional island)
+
+
+Parts:
+
+1. The game starts with a summary of Bean Guy and his life, and has a short tutorial on how to move, etc. The game will instruct the player to harvest the beans in the field and put them in a barrel, once the barrel is filled, the sun will start to go down and it will be time for Bean Guy to go to bed.
+
+-- Bean Guy goes to bed, dark clouds come over his house and rain pours down, destroying the crops --
+
+2. Bean Guy wakes up, comes outside and sees his destroyed fields, he needs new beans to plant (NEW QUEST: GO TO MARKET TO GET MORE BEANS)
+
+*Player can talk to Bean Guy's neighbor and share grievances*
+	Neighbor: "Greetings, neighbor! This weather has surely done us no favors..."
+
+*Player can walk across B1 and interact with the trail to go to the city (B2)*
+
+Nearby the trail on B2 is the market square selling various goods, there is a stall selling beans, which the player will interact with to try to buy beans
+
+*Player can interact with the merchant to try to buy beans, but will be met with the dialogue: 
+	Bean Guy: [Buy beans]
+			Merchant: “Alas, good sir, we are fresh out of beans!”
+			Bean Guy: "Truly? What am I to do? My fields lie barren, and I must cultivate anew!"
+			Merchant: "Aye, tough luck- but there's always a way, if you're daring..."
+		  [Walk away]
+
+(NEW QUEST: SEARCH THE TOWN FOR BEANS)
+
+*Player can walk around B2 in search of a place that may sell beans, if the player tries to walk the trail to B3, they will be met with the dialogue:
+
+	"I have no purpose there"
+
+*There will be docks and a boat on the far East side of B2, the waters are choppy, so if the player tries to use the boat without [Navigation Chart: Brightwater-Eldergrove], they will be met with the dialogue:
+
+	"These seas are far too wild to navigate without a map"
+
+Within B2 will be the merchant standing next to one of the buildings, and will solicit the player as they walk by.
+
+	Shady Merchant: "Good morrow, stranger... I possess beans most rare, but they come at a price"
+	Bean Guy: 	[Offer coins]
+				Bean Guy: "Aye, I do have some coin, what would this afford me?"
+				Shady Merchant: "Mere coinage is worth nothing to me! I will need more than that..."
+
+				[Offer silver ring]
+					Bean Guy: "Very well, I do have this silver ring from my dead wife..."
+					Shady Merchant: "Ah, a piece most fine. Very well then, I shall grant you some beans."
+					ADDED TO INVENTORY: [Beans] *ends dialogue*
+				[Walk away]
+					Shady Merchant: "Very well then, suit yourself..." *ends dialogue*
+		  	[Walk away]
+				*ends dialogue*
+
+*Player can choose to walk away from the Shady Merchant, and they can still explore the town, but the storyline will not progress, buying the beans will trigger (NEW QUEST: PLANT THE BEANS)*
+
+*Player will go back to the farm region (B1) to plant the beans they just obtained*
+
+Walking through B1 towards the farm, there will be a group of Bean Bandits, at first the player will be able to walk past them, but a few steps later, the player will be halted, and a dialogue will ensue:
+
+	?????: "Well, well, what do we have here?"
+	????? 2: *whispering* "Those look mighty fine for the taking, don't they, boss?"
+	Bean Guy: "Can I help you?"
+	?????: "Why yes, I am here with my colleagues on behalf of the Imperial Revenue Solicitors. We have it on our parchments that you failed 	to report a very important levy from this last season." 	
+	Bean Guy: "What levy? I paid all my dues!"
+	?????: "Oh, didn't you know? You failed to declare your agricultural field surplus for beans last harvest. I'll have you know, that's a 	serious offense!"
+	????? 2: "Aye, under Section 12 of the Imperial Farming Decree, any surplus crop must be taxed accordingly!"
+	Bean Guy: "Surplus? My whole field was flooded!"
+	?????: "Well, we've got it all on our records. You can contest it, but it might be easier to settle this with those beans you're 	carrying..."
+	????? 2: "Pay now, or else you'll be subject to a royal audit!"
+	Bean Guy:	[Hand over beans]
+				Bandit Leader: "The Crown thanks you for your loyalty..."
+				Bandit: "...and your generous contribution!"
+				Bean Leader: "Fool! These beans belong to us now!"
+				Bandit: "Hope you enjoy the audit- not that anyone's actually coming!"
+				*The Bean Bandits run off the screen*
+			[Refuse to pay]
+				Bandit Leader: "Very well then, it looks like you'll be paying with you beans AND your blood!"
+				*The Bandit leader hits Bean Guy and steals the beans, the bandit group runs off the screen*
+			Bean Guy: "Return with my beans at once!"
+
+(NEW QUEST: FIND A WAY TO GET THE BEANS BACK)
+*The player will go back to the city (B2) and run back into the Shady Merchant, who is being robbed by the Bean Bandits*
+
+	Bandit Leader: "Aye, we've struck gold with this haul"
+	Bandit: "Well, silver to be more specific."
+	Bandit Leader: "Enough of your babbling! Turn his pockets for coin, you dullard!"
+	Bandit: *sees Bean Guy* "Aye, he's returned!"
+	Bandit Leader: "Who's returned?" *turns* "Oh, you again. Do you have more levies to pay us, fool?"
+	Bean Guy: "I'm here for my beans."
+	Bean Leader: "Well, you're out of luck then, the beans are ours!"
+	Bean Guy: "Return them at once, or I'll take them myself!"
+	Bandit Leader: "You? Against us? A fool’s errand! But if it's a fight you want, farmer, so be it!"
+	*combat ensues and the game will prompt the player on how to fight
+
+*After the fight, an interaction with Shady Merchant will start*
+
+	Shady Merchant: "By the gods, thou art a valiant one!"
+	Bean Guy: "Don't mention it. Only seemed right."
+	Shady Merchant: "Nay, you've done me a good turn, and I'd be remiss not to return it"
+	Shady Merchant: "These beans aren't for mere planting, lad. They're relics of power- eat one, and that power is yours..."
+	Bean Guy: ["Why didn't you use them?"]
+			Shady Merchant: "I once dared to take a taste of their might. The power was... unbearable. I couldn't handle it. I'm but 			a humble trader. Power like this demand's more than a merchant's touch.
+		  ["Who are you?"]
+			Shady Merchant: "I have no name worthy of mention; I am simply a purveyor of things sought by those who know what to ask 			for..."
+		  [Take Brutalist Bean]
+		  [Take Alchemist Bean]
+		  [Take Bullseye Bean]
+			*After taking a bean, Bean Guy consumes it, and the Power Manifest shows up on the screen and the new ability flashes*
+
+(NEW QUEST: FIND THE THIEVES)
+*The player will roam the city (B2) and try to find someone who might know where the thieves went off with the beans to.*
+*Some citizens and shop owners can be interacted with, they will have stories about the Bean Bandits, but not know where to find them*
+	NPC: "Bean Bandits? Only heard of them, never seen them. Sneaky ones, aren't they?
+	NPC: "I've lost so much to those thieves! They steal from the poor and give to their power hungry leader. If only I knew where to find 	them, surely you could take them on."
+*Talking to the baker will reveal where the Bean Bandit encampment is*
+	Baker: "Those Bean Bandits come around here often. Unfortunately, not to do business. After they finish robbing the townsfolk, they rob 	me of my baked goods."
+	Bean Guy: "Do you know where they run off to after robbing everyone?"
+	Baker: "I know not exactly where they hide, but somewhere North, possibly in the forest."
+
+(NEW QUEST: ENTER THE FOREST TO CONFRONT BEAN BANDITS)
+
+*Checking the map will show a red 'X' up North in Brightwater. When the player interacts with the arch to go to B3, they will be allowed to. Entering B3, they will see that the gates to enter the uptown area are locked to keep the Bean Bandits out. Interacting with it, Bean Guy talks to himself:
+	Bean Guy: "It's locked shut. Must be to keep those Bean Bandits out."
+
+The player can also see a clearing in the trees, going into the forest. The player can interact with it to enter the forest*
+
+*The forest will have bean minions as well as Bean Bandits that the player will have to clear through. Eventually, they will get a forest gate key, opening it will lead to the BC (Brightwater Castle) area. This area can either be accessed near the start of the forest through the locked gate, or at the end. The player can either enter the castle right away, or go back to the town to get supplies. B3 is now unlocked as the Bean Bandits of the forest are no longer attacking the towns*
+*The player will have to clear the castle and then will get to the boss room and fight Jarek the Rough One.
+
+			. . . COMPLETE: Brightview campaign . . . 
+
+
+
+3. After defeating Jarek the Rough One, Bean Guy finds a key on his corpse that unlocks a chest inside the dungeon. The chest contains power bean(s), maybe cosmetics, and the Navigation Chart for safe passage between Brightwater and Eldergrove. Bean Guy will then go to the docks by B2, and now be able to use the boat, as he now knows a safe path to Eldergrove. Bean Guy will arrive on the docks of Eldergrove and can walk about the city area (E1). The city will contain different shops and people to meet. The terrain of Brightwater will be a swamp with ancient stone structures and some newer development. Bean Guy will have to explore the town and gather clues about where to look next for the beans. Eventually, the barkeep at the tavern will tell Bean Guy about the sunken grove, an area that has been gated off due to the recent suspicious activity in the area. After some dialogue and convincing, the barkeep gives Bean Guy the [gate key] and tells him that it will open the gate to Sunken Grove. Once entering the Sunken Grove, there will be another gate near the entrance which will lead to the dungeon, but it is locked and requires a different key. Bean Guy will have to fight his way through the mysterious Sunken Grove, which will have things like enchanted creatures and plants, as well as Bean Cultists. The area will also have tons of puzzles and secret rooms. At the end, bean guy will fight a mini-boss who will drop the key for another gate that leads to the dungeon. Near the dungeon will be a merchant selling different goods, he will explain that he just made a big sale to the head of the dungeon, but also offer his wares to Bean Guy. After buying/selling with the merchant, Bean Guy will then enter the dungeon, fight through enemies, solve puzzles, and eventually fight Elder Faba. After defeating him, Bean Guy asks the dying Elder where his beans are, he then explains that the Bean Cult supplies beans to the Bean Syndicate, who are able to instill power into the beans, and in return, the Bean Syndicate gives the Bean Cult a portion of the powered up beans they make. Elder Faba will drop a chest key, which will contain some loot and a Navigation chart to safely travel the waters between Eldergrove and Ironvale.
+
+
+
+			. . . complete Eldergrove campaign . . .
+
+
+
+4. Bean Guy arrives on the docks of Ironvale, which has a city area (I1). The town will have shops and people in it. The terrain of the island will be dark, rocky and jagged with sparce vegetation. 
+
+4.5 [For early development, Bean Guy will be able to go directly to the final dungeon and fight through it. The more finalized version of the game will require Bean Guy to Coghaven, which is the capital of the region.] This area will have the town area and also government buildings like the gilded Imperial Revenue Solicitors building, which Bean Guy can visit or fight through. The town theme will be a hybrid between medieval and steampunk. There will also be the Capitol building, which Bean Guy can either visit and talk to leadership (which will start some quests that Bean Guy can do to earn the government's trust and they will give Bean Guy some heavy explosives) or kill everyone there. If the player kills everyone there, they will need to be able to put a level 3 bomb trap on the armory doors to blow it open and get the heavy explosives inside. If the player is unable to blow the vault doors open, the game ends and they get the bad ending (ending 4).
+
+5. Bean Guy is able to enter the compound in Ironvale, and fights members of the Bean Syndicate (swordsmen, crossbow marksmen, guard dogs, and lieutenants who are mini-bosses). Eventually, Bean Guy is able to get to the heart of the compound and enter the boss room, where he fights Lord Obsidian, a mini-giant with heavy armor who wields a massive enchanted claymore and can also cast spells. Before the fight is a dialogue with Lord Obsidian, where Bean Guy explains why he is there. Bean Guy can either choose to incite a fight with Lord Obsidian in order to get his beans back (ending 1), choose to work with Lord Obsidian as his right hand man (ending 2), or leave (ending 3).
+
+Ending 1: Bean Guy fights Lord Obsidian, defeats him and takes his key to enter the bean vault. He is able to find some crates of beans that have not yet been modified and returns home with them. He plants them and has a fruitful harvest. [I'm thinking it will have Bean Guy on the farm and the player is still able to move him around as the credits roll over the screen, and the seeds grow until they are ready to harvest, eventually the player can harvest them and put them in the barrel. Once the credits end, the game ends and says "THE END"
+
+Ending 2: Bean Guy decides to become Lord Obsidian's right hand man. Lord Obsidian shows Bean Guy his bean vault where he keeps all the beans. Lord Obsidian encourages Bean Guy to consume as many beans as he likes in order to become as powerful as possible. Lord Obsidian leaves the room and the credits begin to roll.   As he eats more beans, he becomes bigger and more muscular, eventually Bean Guy becomes massive and once the credits end, Bean Guy explodes from all the power and the game ends and says "THE END"
+
+Ending 3: Bean Guy decides that it is too much work to fight Lord Obsidian, and Lord Obsidian shows Bean Guy the exit. Bean Guy returns home to his barren fields and the player can walk around the farm as the credits roll over the screen. Bean Guy gets progressively smaller from lack of food. Once the credits end, Bean Guy collapses and dies of starvation. The game ends and says "THE END"

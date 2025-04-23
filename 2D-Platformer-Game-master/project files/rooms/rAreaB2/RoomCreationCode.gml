@@ -1,0 +1,1 @@
+global.adventure_count = 0

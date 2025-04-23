@@ -1,0 +1,10 @@
+This file includes everything that should be included when making a new room to avoid bugs and save/load errors
+
+Objects/Instances
+- oPlayer (the player should not be a persistent object)
+- oPauseMenu
+- oHUD
+
+Notes
+- Center sprites to the bottom center
+- Objects should only be marked as persistent between places where the game can be saved and there isn't another instance of that object (otherwise when you reload from the checkpoint, that object won't load in)

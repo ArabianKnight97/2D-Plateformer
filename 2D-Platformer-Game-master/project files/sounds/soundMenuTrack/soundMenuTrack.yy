@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"soundMenuTrack",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":33.68422,
+  "name":"soundMenuTrack",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"soundMenuTrack.wav",
+  "type":0,
+  "volume":1.0,
+}

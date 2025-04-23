@@ -1,0 +1,25 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"psLeafyWind",
+  "backdropHeight":768,
+  "backdropImageOpacity":0.4,
+  "backdropImagePath":"",
+  "backdropWidth":1366,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"leaves","additiveBlend":false,"directionIncrease":0.1,"directionMax":245.0,"directionMin":135.0,"directionWiggle":3.0,"distribution":0,"editorColour":1090519039,"editorDrawShape":true,"emitCount":1,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.1,"emitIntervalMin":0.1,"emitIntervalUnits":0,"enabled":true,"endColour":4281173989,"GMPresetName":"","gravityDirection":100.0,"gravityForce":0.01,"headPosition":-8.0,"lifetimeMax":360.0,"lifetimeMin":120.0,"linkedEmitter":null,"locked":false,"midColour":4282230988,"mode":0,"name":"leaves","orientationIncrease":0.7,"orientationMax":180.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":220.0,"regionW":1.0,"regionX":0.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":0.125,"scaleY":0.125,"shape":3,"sizeIncrease":-0.001,"sizeMax":3.0,"sizeMin":1.0,"sizeWiggle":0.0,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.01,"speedMax":1.0,"speedMin":0.5,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":{"name":"sGrassClump_particle","path":"sprites/sGrassClump_particle/sGrassClump_particle.yy",},"spriteRandom":false,"spriteStretch":false,"startColour":4281357216,"texture":-1,},
+  ],
+  "name":"psLeafyWind",
+  "parent":{
+    "name":"Particle Systems",
+    "path":"folders/Particle Systems.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}
